@@ -12,7 +12,7 @@ https://qiita.com/potara/items/334f00ca1bd6d6fc1661
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/copy-image/releases/download/v3/copy-image-ver3.plugin.zip  
+https://github.com/potaracom/copy-image/releases/download/v4/copy-image-ver4.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -27,6 +27,10 @@ https://github.com/potaracom/copy-image/releases/download/v3/copy-image-ver3.plu
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
+
+- 2020/2/22 v4 リリース  
+  スペースフィールドだけでなく画面上部のスペースも選択できるように改善
+
 
 - 2020/2/15 v3 リリース  
   テーブルのフィールドを選択できないように修正
