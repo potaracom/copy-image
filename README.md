@@ -12,7 +12,7 @@ https://potara.net/plugin/copy-image/
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/copy-image/releases/download/v7/copy-image-ver7.plugin.zip  
+https://github.com/potaracom/copy-image/releases/download/v8/copy-image-ver8.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -27,22 +27,25 @@ https://github.com/potaracom/copy-image/releases/download/v7/copy-image-ver7.plu
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
 
 # 更新情報
-- 2020/5/24 v7 リリース  
+- 2020/5/27 v8  
+  コピー元フィールドにテーブルの添付ファイルフィールドを指定できるように改善
+
+- 2020/5/24 v7  
   ゲストスペース内アプリに対応
 
-- 2020/5/13 v6 リリース  
+- 2020/5/13 v6 
   ボタンの表示スタイルを変更
 
-- 2020/4/28 v5 リリース  
+- 2020/4/28 v5  
   アイコンやURLなどを修正
 
-- 2020/2/22 v4 リリース  
+- 2020/2/22 v4  
   スペースフィールドだけでなく画面上部のスペースも選択できるように改善
 
-- 2020/2/15 v3 リリース  
+- 2020/2/15 v3  
   テーブルのフィールドを選択できないように修正
 
-- 2019/12/8 v2 リリース  
+- 2019/12/8 v2  
   Firefoxでコピー先の添付ファイルフィールドの表示位置がずれる不具合を修正
 
-- 2019/12/7 v1 リリース
+- 2019/12/7 v1
